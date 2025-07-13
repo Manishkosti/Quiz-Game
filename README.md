@@ -143,25 +143,6 @@ Follow the on-screen prompts:
 6. Choose to play another round or quit
    To quit at any time, just type: quit
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-5. 🔁 Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the **Not specified** License.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who helped make this project better
-- Special thanks to the open-source community
-
 ---
 
 <div align="center">
@@ -170,6 +151,6 @@ This project is licensed under the **Not specified** License.
   <br/>
   
   <a href="https://github.com/Manishkosti/Quiz-Game">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub"/>
+    <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github"   alt="View on GitHub"/>
   </a>
 </div>
