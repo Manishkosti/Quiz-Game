@@ -74,7 +74,7 @@ Whether you're a student, teacher, or just a trivia enthusiast, this game provid
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
  Python 3.10+
  
  Standard libraries: json, time, os, pathlib
@@ -91,6 +91,7 @@ Add your own questions in questions.json
 
 Run: python quiz_game.py
 
+
 ### 🔧 Installation
 
 ```bash
@@ -100,20 +101,26 @@ git clone https://github.com/Manishkosti/Quiz-Game.git
 # Navigate to project directory
 cd Quiz-Game
 
+# Make sure you have Python 3.10 or higher installed.
+
 # Install dependencies
-npm install
+No external libraries required — the game uses only standard Python libraries.
 
 # Start the development server
-npm run dev
+python quiz_game.py
 ```
 
 ## 🌟 Features
 
-- ✨ Modern and responsive design
-- 🚀 High performance
-- 📱 Mobile-friendly
-- 🔒 Secure by default
-- 🎨 Customizable themes
+- 📚 Loads questions from JSON – Cleanly structured questions.json supports:
+  - Multiple-choice
+  - True/False
+  - Open-ended
+- 🎮 Interactive Game Loop – Play by difficulty level: Easy, Medium, or Hard
+- 📊 Score Tracking – Keeps score per round, with a persistent high-score leaderboard
+- 🔊 Cross-platform Sound Effects – Welcome, correct, and wrong answer tones using winsound (Windows fallback friendly)
+- 💾 Persistent Data – High scores stored in high_scores.json
+- ✨ Friendly UI – Styled CLI with feedback, retry prompts, and quit options
 
 ## 📚 Usage
 
