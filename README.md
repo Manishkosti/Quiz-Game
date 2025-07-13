@@ -8,7 +8,7 @@
   </div>
   
   <p style="font-size: 18px; color: #666; font-weight: 500; margin: 20px 0;">
-    No description provided.
+    A cross-platform Python quiz game that runs in the terminal. Supports multiple question types and tracks high scores.
   </p>
 </div>
 
@@ -27,7 +27,11 @@
 
 ## 📖 About
 
-No description provided.
+Command-line Quiz Game is a terminal-based quiz application built with Python. It allows users to test their knowledge through a variety of question types — including multiple-choice, true/false, and open-ended — across different difficulty levels.
+
+Designed for both fun and learning, the game includes sound effects, score tracking, and a persistent high-score leaderboard. It’s lightweight, easy to customize, and great for beginners looking to explore file handling, JSON parsing, and interactive CLI applications in Python.
+
+Whether you're a student, teacher, or just a trivia enthusiast, this game provides an engaging way to challenge your brain!
 
 
 ## 📊 Repository Statistics
@@ -71,7 +75,7 @@ No description provided.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ![Python](https://img.shields.io/badge/Python-100.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  [![Python](https://img.shields.io/badge/Python-100.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 </div>
 
 
