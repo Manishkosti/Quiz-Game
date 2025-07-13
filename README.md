@@ -76,10 +76,7 @@ Whether you're a student, teacher, or just a trivia enthusiast, this game provid
 
 <div align="left">
  Python 3.10+
-
-  
  Standard libraries: json, time, os, pathlib
-
  Optional: winsound (Windows-only)
 </div>
 
@@ -87,9 +84,7 @@ Whether you're a student, teacher, or just a trivia enthusiast, this game provid
 ## 🎯 Getting Started
 
 Clone this repo
-
 Add your own questions in questions.json
-
 Run: python quiz_game.py
 
 
@@ -148,7 +143,7 @@ Follow the on-screen prompts:
 <div align="center">
   <strong>⭐ Star this repository if you find it helpful!</strong>
   
-  <br/>
+  <br/><br/>
   
   <a href="https://github.com/Manishkosti/Quiz-Game">
     <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github"   alt="View on GitHub"/>
