@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/stars/Manishkosti/Quiz-Game?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub stars"/>
     <img src="https://img.shields.io/github/forks/Manishkosti/Quiz-Game?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub forks"/>
     <img src="https://img.shields.io/github/issues/Manishkosti/Quiz-Game?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub issues"/>
-    <img src="https://img.shields.io/github/license/Manishkosti/Quiz-Game?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub license"/>
   </div>
   
   <p style="font-size: 18px; color: #666; font-weight: 500; margin: 20px 0;">
