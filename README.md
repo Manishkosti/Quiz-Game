@@ -75,18 +75,21 @@ Whether you're a student, teacher, or just a trivia enthusiast, this game provid
 ## 🛠️ Tech Stack
 
 <div align="center">
-  [![Python](https://img.shields.io/badge/Python-100.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+ Python 3.10+
+ 
+ Standard libraries: json, time, os, pathlib
+
+ Optional: winsound (Windows-only)
 </div>
 
 
 ## 🎯 Getting Started
 
-### Prerequisites
+Clone this repo
 
-Make sure you have the following installed:
+Add your own questions in questions.json
 
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) `v16+`
-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) `v8+`
+Run: python quiz_game.py
 
 ### 🔧 Installation
 
