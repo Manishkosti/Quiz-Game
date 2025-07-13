@@ -76,7 +76,8 @@ Whether you're a student, teacher, or just a trivia enthusiast, this game provid
 
 <div align="left">
  Python 3.10+
- 
+
+  
  Standard libraries: json, time, os, pathlib
 
  Optional: winsound (Windows-only)
@@ -92,7 +93,7 @@ Add your own questions in questions.json
 Run: python quiz_game.py
 
 
-### 🔧 Installation
+## 🔧 Installation
 
 ```bash
 # Clone the repository
@@ -124,13 +125,23 @@ python quiz_game.py
 
 ## 📚 Usage
 
-Add your usage examples here:
-
-```javascript
-// Example code snippet
-const example = "Hello, World!";
-console.log(example);
-```
+After running the game with: python quiz_game.py
+Follow the on-screen prompts:
+1. Enter your name – Used to track high scores.
+2. Choose a difficulty level:
+   - 1 → Easy
+   - 2 → Medium
+   - 3 → Hard
+3. Answer questions based on type:
+   - ✅ Multiple Choice → Type the number of your chosen option
+   - ✅ True/False → Type 1 for True or 2 for False (also accepts true, false, t, f)
+   - ✅ Open-ended → Type your answer (not case-sensitive)
+4. Get instant feedback:
+   - ✔️ Correct answers earn 10 points
+   - ❌ Wrong answers show the correct one
+5. View your total score and the top 10 high scores
+6. Choose to play another round or quit
+   To quit at any time, just type: quit
 
 ## 🤝 Contributing
 
