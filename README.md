@@ -34,57 +34,19 @@ Designed for both fun and learning, the game includes sound effects, score track
 Whether you're a student, teacher, or just a trivia enthusiast, this game provides an engaging way to challenge your brain!
 
 
-## 📊 Repository Statistics
-
-<div align="center">
-  <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-    <thead>
-      <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: left; font-weight: bold;">
-        <th style="padding: 12px 15px;">Metric</th>
-        <th style="padding: 12px 15px;">Count</th>
-        <th style="padding: 12px 15px;">Badge</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">⭐ Stars</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/stars/Manishkosti/Quiz-Game?style=social" alt="GitHub stars"/></td>
-      </tr>
-      <tr style="background-color: #f3f3f3; border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">🍴 Forks</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/forks/Manishkosti/Quiz-Game?style=social" alt="GitHub forks"/></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">👁️ Watchers</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/watchers/Manishkosti/Quiz-Game?style=social" alt="GitHub watchers"/></td>
-      </tr>
-      <tr style="background-color: #f3f3f3;">
-        <td style="padding: 12px 15px;">🐛 Issues</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/issues/Manishkosti/Quiz-Game?style=social" alt="GitHub issues"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-
 ## 🛠️ Tech Stack
 
 <div align="left">
- Python 3.10+
- Standard libraries: json, time, os, pathlib
+ Python 3.10+<br/>
+ Standard libraries: json, time, os, pathlib<br/>
  Optional: winsound (Windows-only)
 </div>
 
 
 ## 🎯 Getting Started
 
-Clone this repo
-Add your own questions in questions.json
+Clone this repo<br/>
+Add your own questions in questions.json<br/>
 Run: python quiz_game.py
 
 
@@ -143,7 +105,7 @@ Follow the on-screen prompts:
 <div align="center">
   <strong>⭐ Star this repository if you find it helpful!</strong>
   
-  <br/><br/>
+  <br/>
   
   <a href="https://github.com/Manishkosti/Quiz-Game">
     <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github"   alt="View on GitHub"/>
